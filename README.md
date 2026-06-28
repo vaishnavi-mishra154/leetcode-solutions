@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/vaishnavi-mishra154/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
